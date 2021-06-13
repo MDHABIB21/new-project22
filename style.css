@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ ul{
+     width: 100%;
+     height: auto;
+     background-color: rgb(226, 43, 67);
+     text-align: left;
+     
+     
+    
+
+ }
+ ul li{
+     color: white;
+     text-transform: capitalize;
+     display: inline-block;
+     text-decoration: none;
+     padding: 10px;
+     
+ }
+h1{
+    background-color: rgb(139, 168, 150);
+    text-transform: capitalize;
+    text-align: center;
+
+}
+h3{
+    text-transform: capitalize;
+    color: black;
+}
+ .from{
+    
+ }
+.from{
+    width: 1000px;
+    height: 600px;
+    position: absolute;
+    margin: 0;
+    padding: 20PX;
+    text-transform: capitalize;
+
+}
+
+.one{
+    text-transform: capitalize;
+    text-align: center;
+    position:relative;
+    float: left;
+    color: yellowgreen;
+
+}
